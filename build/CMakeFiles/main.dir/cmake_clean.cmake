@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/backends/imgui_impl_opengl3.cpp.o"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/backends/imgui_impl_opengl3.cpp.o.d"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/backends/imgui_impl_sdl.cpp.o"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/backends/imgui_impl_sdl.cpp.o.d"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui.cpp.o"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui.cpp.o.d"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui_demo.cpp.o"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui_demo.cpp.o.d"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui_draw.cpp.o"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui_draw.cpp.o.d"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui_widgets.cpp.o"
+  "CMakeFiles/main.dir/Users/alexstansfield/Desktop/Programmes/my_dependencies/imgui-docking/imgui_widgets.cpp.o.d"
+  "CMakeFiles/main.dir/src/IndexBuffer.cpp.o"
+  "CMakeFiles/main.dir/src/IndexBuffer.cpp.o.d"
+  "CMakeFiles/main.dir/src/Renderer.cpp.o"
+  "CMakeFiles/main.dir/src/Renderer.cpp.o.d"
+  "CMakeFiles/main.dir/src/Shader.cpp.o"
+  "CMakeFiles/main.dir/src/Shader.cpp.o.d"
+  "CMakeFiles/main.dir/src/Texture.cpp.o"
+  "CMakeFiles/main.dir/src/Texture.cpp.o.d"
+  "CMakeFiles/main.dir/src/VertexArray.cpp.o"
+  "CMakeFiles/main.dir/src/VertexArray.cpp.o.d"
+  "CMakeFiles/main.dir/src/VertexBuffer.cpp.o"
+  "CMakeFiles/main.dir/src/VertexBuffer.cpp.o.d"
+  "CMakeFiles/main.dir/src/main.cpp.o"
+  "CMakeFiles/main.dir/src/main.cpp.o.d"
+  "CMakeFiles/main.dir/src/tests/Test.cpp.o"
+  "CMakeFiles/main.dir/src/tests/Test.cpp.o.d"
+  "CMakeFiles/main.dir/src/tests/TestClearColour.cpp.o"
+  "CMakeFiles/main.dir/src/tests/TestClearColour.cpp.o.d"
+  "CMakeFiles/main.dir/src/tests/TestTexture2D.cpp.o"
+  "CMakeFiles/main.dir/src/tests/TestTexture2D.cpp.o.d"
+  "main"
+  "main.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/main.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
